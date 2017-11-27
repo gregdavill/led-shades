@@ -5,10 +5,11 @@ Simple Arduino compatible RGB LED shades. Using an absurd quantinty of APA102 20
 Note this device has not been prototyped yet.
 
 ## 3d Render
-image
+![alt text](https://github.com/gregdavill/led-shades/blob/master/outputs/renders/Colours.jpg "led-shades Render")
+
 
 ## Schematic
-Image
+![alt text](https://github.com/gregdavill/led-shades/blob/master/outputs/ledGlasses_sch.png "led-shades Schematic")
 
 ## Development Timeline
 
@@ -24,4 +25,4 @@ Image
 
 ## License
 
-MIT - See LICENCE
+MIT - See [LICENCE](LICENSE)
