@@ -1,0 +1,6 @@
+{
+    "board": "adafruit:samd:adafruit_feather_m0",
+    "port": "COM9",
+    "output": "../build",
+    "sketch": "led-shades-fw.ino"
+}

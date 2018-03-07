@@ -1,0 +1,12 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+Language                                  : Cpp
+BasedOnStyle                              : Google
+Standard                                  : Cpp11
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+AccessModifierOffset                      : -4
+BreakBeforeBraces                         : Stroustrup
+ColumnLimit                               : 160
+IndentWidth                               : 4
+TabWidth                                  : 4
+UseTab                                    : Never
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
